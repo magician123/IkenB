@@ -1,0 +1,4 @@
+﻿Get the number of rows that this triangle will have
+Go through each and every rows
+Get the binary pattern
+Print the pattern incrementally row by row

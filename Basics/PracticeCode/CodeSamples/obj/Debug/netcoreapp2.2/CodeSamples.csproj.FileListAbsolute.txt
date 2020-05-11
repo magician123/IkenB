@@ -1,0 +1,11 @@
+C:\Programming\Basics\PracticeCode\CodeSamples\bin\Debug\netcoreapp2.2\CodeSamples.deps.json
+C:\Programming\Basics\PracticeCode\CodeSamples\bin\Debug\netcoreapp2.2\CodeSamples.runtimeconfig.json
+C:\Programming\Basics\PracticeCode\CodeSamples\bin\Debug\netcoreapp2.2\CodeSamples.runtimeconfig.dev.json
+C:\Programming\Basics\PracticeCode\CodeSamples\bin\Debug\netcoreapp2.2\CodeSamples.dll
+C:\Programming\Basics\PracticeCode\CodeSamples\bin\Debug\netcoreapp2.2\CodeSamples.pdb
+C:\Programming\Basics\PracticeCode\CodeSamples\obj\Debug\netcoreapp2.2\CodeSamples.csprojAssemblyReference.cache
+C:\Programming\Basics\PracticeCode\CodeSamples\obj\Debug\netcoreapp2.2\CodeSamples.csproj.CoreCompileInputs.cache
+C:\Programming\Basics\PracticeCode\CodeSamples\obj\Debug\netcoreapp2.2\CodeSamples.AssemblyInfoInputs.cache
+C:\Programming\Basics\PracticeCode\CodeSamples\obj\Debug\netcoreapp2.2\CodeSamples.AssemblyInfo.cs
+C:\Programming\Basics\PracticeCode\CodeSamples\obj\Debug\netcoreapp2.2\CodeSamples.dll
+C:\Programming\Basics\PracticeCode\CodeSamples\obj\Debug\netcoreapp2.2\CodeSamples.pdb

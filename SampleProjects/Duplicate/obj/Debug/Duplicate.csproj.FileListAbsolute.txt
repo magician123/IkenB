@@ -1,0 +1,6 @@
+C:\IkenB\SampleProjects\Duplicate\bin\Debug\Duplicate.dll
+C:\IkenB\SampleProjects\Duplicate\bin\Debug\Duplicate.pdb
+C:\IkenB\SampleProjects\Duplicate\obj\Debug\Duplicate.csprojAssemblyReference.cache
+C:\IkenB\SampleProjects\Duplicate\obj\Debug\Duplicate.csproj.CoreCompileInputs.cache
+C:\IkenB\SampleProjects\Duplicate\obj\Debug\Duplicate.dll
+C:\IkenB\SampleProjects\Duplicate\obj\Debug\Duplicate.pdb

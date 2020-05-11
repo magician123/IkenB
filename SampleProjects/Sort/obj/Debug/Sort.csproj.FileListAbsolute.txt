@@ -1,0 +1,6 @@
+C:\IkenB\SampleProjects\Sort\bin\Debug\Sort.dll
+C:\IkenB\SampleProjects\Sort\bin\Debug\Sort.pdb
+C:\IkenB\SampleProjects\Sort\obj\Debug\Sort.csprojAssemblyReference.cache
+C:\IkenB\SampleProjects\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+C:\IkenB\SampleProjects\Sort\obj\Debug\Sort.dll
+C:\IkenB\SampleProjects\Sort\obj\Debug\Sort.pdb

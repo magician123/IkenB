@@ -1,0 +1,11 @@
+C:\Programming\Basics\PracticeCode\Delegates\bin\Debug\netcoreapp2.2\Delegates.deps.json
+C:\Programming\Basics\PracticeCode\Delegates\bin\Debug\netcoreapp2.2\Delegates.runtimeconfig.json
+C:\Programming\Basics\PracticeCode\Delegates\bin\Debug\netcoreapp2.2\Delegates.runtimeconfig.dev.json
+C:\Programming\Basics\PracticeCode\Delegates\bin\Debug\netcoreapp2.2\Delegates.dll
+C:\Programming\Basics\PracticeCode\Delegates\bin\Debug\netcoreapp2.2\Delegates.pdb
+C:\Programming\Basics\PracticeCode\Delegates\obj\Debug\netcoreapp2.2\Delegates.csproj.CoreCompileInputs.cache
+C:\Programming\Basics\PracticeCode\Delegates\obj\Debug\netcoreapp2.2\Delegates.AssemblyInfoInputs.cache
+C:\Programming\Basics\PracticeCode\Delegates\obj\Debug\netcoreapp2.2\Delegates.AssemblyInfo.cs
+C:\Programming\Basics\PracticeCode\Delegates\obj\Debug\netcoreapp2.2\Delegates.dll
+C:\Programming\Basics\PracticeCode\Delegates\obj\Debug\netcoreapp2.2\Delegates.pdb
+C:\Programming\Basics\PracticeCode\Delegates\obj\Debug\netcoreapp2.2\Delegates.csprojAssemblyReference.cache

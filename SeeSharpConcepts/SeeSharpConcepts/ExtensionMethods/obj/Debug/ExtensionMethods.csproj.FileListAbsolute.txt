@@ -1,0 +1,7 @@
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\ExtensionMethods\obj\Debug\ExtensionMethods.csprojAssemblyReference.cache
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\ExtensionMethods\obj\Debug\ExtensionMethods.pdb

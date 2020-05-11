@@ -1,0 +1,5 @@
+﻿Get the number from the user
+Check if it is Even or odd
+Return true if even
+Return false if odd
+Display the results

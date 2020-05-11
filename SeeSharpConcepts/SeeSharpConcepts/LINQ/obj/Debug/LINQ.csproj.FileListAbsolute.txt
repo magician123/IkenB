@@ -1,0 +1,7 @@
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\LINQ\bin\Debug\LINQ.exe.config
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\LINQ\bin\Debug\LINQ.exe
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\LINQ\bin\Debug\LINQ.pdb
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\LINQ\obj\Debug\LINQ.exe
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\LINQ\obj\Debug\LINQ.pdb

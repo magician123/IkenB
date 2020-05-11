@@ -1,0 +1,11 @@
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\bin\Debug\netcoreapp2.2\WorkingWithNulls.deps.json
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\bin\Debug\netcoreapp2.2\WorkingWithNulls.runtimeconfig.json
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\bin\Debug\netcoreapp2.2\WorkingWithNulls.runtimeconfig.dev.json
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\bin\Debug\netcoreapp2.2\WorkingWithNulls.dll
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\bin\Debug\netcoreapp2.2\WorkingWithNulls.pdb
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\obj\Debug\netcoreapp2.2\WorkingWithNulls.csprojAssemblyReference.cache
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\obj\Debug\netcoreapp2.2\WorkingWithNulls.csproj.CoreCompileInputs.cache
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\obj\Debug\netcoreapp2.2\WorkingWithNulls.AssemblyInfoInputs.cache
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\obj\Debug\netcoreapp2.2\WorkingWithNulls.AssemblyInfo.cs
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\obj\Debug\netcoreapp2.2\WorkingWithNulls.dll
+C:\Programming\Basics\PracticeCode\WorkingWithNulls\obj\Debug\netcoreapp2.2\WorkingWithNulls.pdb

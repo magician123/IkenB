@@ -1,0 +1,7 @@
+C:\IkenB\RichfieldAssignment\QuestionTwo\bin\Debug\QuestionTwo.exe.config
+C:\IkenB\RichfieldAssignment\QuestionTwo\bin\Debug\QuestionTwo.exe
+C:\IkenB\RichfieldAssignment\QuestionTwo\bin\Debug\QuestionTwo.pdb
+C:\IkenB\RichfieldAssignment\QuestionTwo\obj\Debug\QuestionTwo.csprojAssemblyReference.cache
+C:\IkenB\RichfieldAssignment\QuestionTwo\obj\Debug\QuestionTwo.csproj.CoreCompileInputs.cache
+C:\IkenB\RichfieldAssignment\QuestionTwo\obj\Debug\QuestionTwo.exe
+C:\IkenB\RichfieldAssignment\QuestionTwo\obj\Debug\QuestionTwo.pdb

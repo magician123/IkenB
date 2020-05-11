@@ -1,0 +1,16 @@
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\EvenNumberEvaluator.Test.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\EvenNumberEvaluator.Test.pdb
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\EvenNumberEvaluator.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\EvenNumberEvaluator.pdb
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\obj\Debug\EvenNumberEvaluator.Test.csprojAssemblyReference.cache
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\obj\Debug\EvenNumberEvaluator.Test.csproj.CoreCompileInputs.cache
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\obj\Debug\EvenNumberEvaluator.Test.csproj.CopyComplete
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\obj\Debug\EvenNumberEvaluator.Test.dll
+C:\IkenB\SampleProjects\EvenNumberEvaluator.Test\obj\Debug\EvenNumberEvaluator.Test.pdb

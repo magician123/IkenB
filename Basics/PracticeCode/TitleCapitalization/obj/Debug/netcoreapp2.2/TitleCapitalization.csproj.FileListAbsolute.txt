@@ -1,0 +1,11 @@
+C:\Programming\Basics\PracticeCode\TitleCapitalization\bin\Debug\netcoreapp2.2\TitleCapitalization.deps.json
+C:\Programming\Basics\PracticeCode\TitleCapitalization\bin\Debug\netcoreapp2.2\TitleCapitalization.runtimeconfig.json
+C:\Programming\Basics\PracticeCode\TitleCapitalization\bin\Debug\netcoreapp2.2\TitleCapitalization.runtimeconfig.dev.json
+C:\Programming\Basics\PracticeCode\TitleCapitalization\bin\Debug\netcoreapp2.2\TitleCapitalization.dll
+C:\Programming\Basics\PracticeCode\TitleCapitalization\bin\Debug\netcoreapp2.2\TitleCapitalization.pdb
+C:\Programming\Basics\PracticeCode\TitleCapitalization\obj\Debug\netcoreapp2.2\TitleCapitalization.csprojAssemblyReference.cache
+C:\Programming\Basics\PracticeCode\TitleCapitalization\obj\Debug\netcoreapp2.2\TitleCapitalization.csproj.CoreCompileInputs.cache
+C:\Programming\Basics\PracticeCode\TitleCapitalization\obj\Debug\netcoreapp2.2\TitleCapitalization.AssemblyInfoInputs.cache
+C:\Programming\Basics\PracticeCode\TitleCapitalization\obj\Debug\netcoreapp2.2\TitleCapitalization.AssemblyInfo.cs
+C:\Programming\Basics\PracticeCode\TitleCapitalization\obj\Debug\netcoreapp2.2\TitleCapitalization.dll
+C:\Programming\Basics\PracticeCode\TitleCapitalization\obj\Debug\netcoreapp2.2\TitleCapitalization.pdb

@@ -1,0 +1,6 @@
+C:\IkenB\RichfieldAssignment\QuestionThree\bin\Debug\QuestionThree.exe.config
+C:\IkenB\RichfieldAssignment\QuestionThree\bin\Debug\QuestionThree.exe
+C:\IkenB\RichfieldAssignment\QuestionThree\bin\Debug\QuestionThree.pdb
+C:\IkenB\RichfieldAssignment\QuestionThree\obj\Debug\QuestionThree.csproj.CoreCompileInputs.cache
+C:\IkenB\RichfieldAssignment\QuestionThree\obj\Debug\QuestionThree.exe
+C:\IkenB\RichfieldAssignment\QuestionThree\obj\Debug\QuestionThree.pdb

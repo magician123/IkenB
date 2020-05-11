@@ -1,0 +1,6 @@
+﻿Get the text from the user
+Read through the text in reverse
+ - Store each character
+ - create a new string usting the store characters
+Display the reversed text
+

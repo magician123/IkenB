@@ -1,0 +1,14 @@
+﻿Get input
+Store input in an array
+Calculate the sum
+	Get the sum of all the values in the array elements
+Calculate largest
+	Store a default lagers
+	If ypu find largers, override the defaul
+Calculate the min
+	Store the default smallest
+	if you find smaller than default, override smallest
+Calculate Average
+	Get the number of items
+	Divide the sum by the number of items
+Print results

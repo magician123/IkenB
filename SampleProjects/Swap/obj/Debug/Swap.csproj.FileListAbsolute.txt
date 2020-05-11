@@ -1,0 +1,6 @@
+C:\IkenB\SampleProjects\Swap\bin\Debug\Swap.dll
+C:\IkenB\SampleProjects\Swap\bin\Debug\Swap.pdb
+C:\IkenB\SampleProjects\Swap\obj\Debug\Swap.csprojAssemblyReference.cache
+C:\IkenB\SampleProjects\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\IkenB\SampleProjects\Swap\obj\Debug\Swap.dll
+C:\IkenB\SampleProjects\Swap\obj\Debug\Swap.pdb

@@ -1,0 +1,7 @@
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Events\bin\Debug\Events.exe.config
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Events\bin\Debug\Events.exe
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Events\bin\Debug\Events.pdb
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Events\obj\Debug\Events.exe
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Events\obj\Debug\Events.pdb

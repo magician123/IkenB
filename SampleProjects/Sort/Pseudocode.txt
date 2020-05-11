@@ -1,0 +1,9 @@
+﻿  Take the array
+  Read it
+  Loop throug it as long as its not sorted
+	- Loop trough adjacent pair of items
+		- If the pair is not sorted
+		- Swap them
+		
+ Print the sorted array	
+  

@@ -1,0 +1,2 @@
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+C:\IkenB\SeeSharpConcepts\SeeSharpConcepts\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache

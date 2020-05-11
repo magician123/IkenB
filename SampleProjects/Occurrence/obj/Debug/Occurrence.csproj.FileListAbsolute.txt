@@ -1,0 +1,6 @@
+C:\IkenB\SampleProjects\Occurrence\bin\Debug\Occurrence.dll
+C:\IkenB\SampleProjects\Occurrence\bin\Debug\Occurrence.pdb
+C:\IkenB\SampleProjects\Occurrence\obj\Debug\Occurrence.csprojAssemblyReference.cache
+C:\IkenB\SampleProjects\Occurrence\obj\Debug\Occurrence.csproj.CoreCompileInputs.cache
+C:\IkenB\SampleProjects\Occurrence\obj\Debug\Occurrence.dll
+C:\IkenB\SampleProjects\Occurrence\obj\Debug\Occurrence.pdb

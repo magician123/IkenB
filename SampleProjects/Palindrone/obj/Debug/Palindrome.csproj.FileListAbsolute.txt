@@ -1,0 +1,5 @@
+C:\IkenB\SampleProjects\Palindrone\bin\Debug\Palindrone.dll
+C:\IkenB\SampleProjects\Palindrone\bin\Debug\Palindrone.pdb
+C:\IkenB\SampleProjects\Palindrone\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\IkenB\SampleProjects\Palindrone\obj\Debug\Palindrone.dll
+C:\IkenB\SampleProjects\Palindrone\obj\Debug\Palindrone.pdb

@@ -1,0 +1,11 @@
+C:\Programming\Basics\PracticeCode\Classes\bin\Debug\netcoreapp2.2\Classes.deps.json
+C:\Programming\Basics\PracticeCode\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.json
+C:\Programming\Basics\PracticeCode\Classes\bin\Debug\netcoreapp2.2\Classes.runtimeconfig.dev.json
+C:\Programming\Basics\PracticeCode\Classes\bin\Debug\netcoreapp2.2\Classes.dll
+C:\Programming\Basics\PracticeCode\Classes\bin\Debug\netcoreapp2.2\Classes.pdb
+C:\Programming\Basics\PracticeCode\Classes\obj\Debug\netcoreapp2.2\Classes.csprojAssemblyReference.cache
+C:\Programming\Basics\PracticeCode\Classes\obj\Debug\netcoreapp2.2\Classes.csproj.CoreCompileInputs.cache
+C:\Programming\Basics\PracticeCode\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfoInputs.cache
+C:\Programming\Basics\PracticeCode\Classes\obj\Debug\netcoreapp2.2\Classes.AssemblyInfo.cs
+C:\Programming\Basics\PracticeCode\Classes\obj\Debug\netcoreapp2.2\Classes.dll
+C:\Programming\Basics\PracticeCode\Classes\obj\Debug\netcoreapp2.2\Classes.pdb

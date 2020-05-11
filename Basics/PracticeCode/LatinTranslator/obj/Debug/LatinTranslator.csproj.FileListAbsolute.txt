@@ -1,0 +1,15 @@
+C:\Programming\Basics\PracticeCode\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Programming\Basics\PracticeCode\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Programming\Basics\PracticeCode\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator.csprojAssemblyReference.cache
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\MainWindow.g.cs
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\App.g.cs
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator_MarkupCompile.cache
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator_MarkupCompile.lref
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\MainWindow.baml
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator.g.resources
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.cache
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator.csproj.CoreCompileInputs.cache
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Programming\Basics\PracticeCode\LatinTranslator\obj\Debug\LatinTranslator.pdb

@@ -1,0 +1,6 @@
+C:\IkenB\SampleProjects\FibonacciSeries\bin\Debug\FibonacciSeries.dll
+C:\IkenB\SampleProjects\FibonacciSeries\bin\Debug\FibonacciSeries.pdb
+C:\IkenB\SampleProjects\FibonacciSeries\obj\Debug\FibonacciSeries.csprojAssemblyReference.cache
+C:\IkenB\SampleProjects\FibonacciSeries\obj\Debug\FibonacciSeries.csproj.CoreCompileInputs.cache
+C:\IkenB\SampleProjects\FibonacciSeries\obj\Debug\FibonacciSeries.dll
+C:\IkenB\SampleProjects\FibonacciSeries\obj\Debug\FibonacciSeries.pdb

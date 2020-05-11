@@ -1,0 +1,6 @@
+C:\IkenB\TestDrivenDevelopment\Fundamentals\bin\Debug\Fundamentals.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals\bin\Debug\Fundamentals.pdb
+C:\IkenB\TestDrivenDevelopment\Fundamentals\obj\Debug\Fundamentals.csprojAssemblyReference.cache
+C:\IkenB\TestDrivenDevelopment\Fundamentals\obj\Debug\Fundamentals.csproj.CoreCompileInputs.cache
+C:\IkenB\TestDrivenDevelopment\Fundamentals\obj\Debug\Fundamentals.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals\obj\Debug\Fundamentals.pdb

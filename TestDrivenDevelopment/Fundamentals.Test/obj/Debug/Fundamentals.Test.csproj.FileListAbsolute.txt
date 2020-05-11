@@ -1,0 +1,16 @@
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Fundamentals.Test.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Fundamentals.Test.pdb
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Fundamentals.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Fundamentals.pdb
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\obj\Debug\Fundamentals.Test.csprojAssemblyReference.cache
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\obj\Debug\Fundamentals.Test.csproj.CoreCompileInputs.cache
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\obj\Debug\Fundamentals.Test.csproj.CopyComplete
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\obj\Debug\Fundamentals.Test.dll
+C:\IkenB\TestDrivenDevelopment\Fundamentals.Test\obj\Debug\Fundamentals.Test.pdb

@@ -1,0 +1,11 @@
+C:\IkenB\YoutubeExamples\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.deps.json
+C:\IkenB\YoutubeExamples\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.runtimeconfig.json
+C:\IkenB\YoutubeExamples\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.runtimeconfig.dev.json
+C:\IkenB\YoutubeExamples\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.dll
+C:\IkenB\YoutubeExamples\EvenNumber\bin\Debug\netcoreapp2.2\EvenNumber.pdb
+C:\IkenB\YoutubeExamples\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.csprojAssemblyReference.cache
+C:\IkenB\YoutubeExamples\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.csproj.CoreCompileInputs.cache
+C:\IkenB\YoutubeExamples\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.AssemblyInfoInputs.cache
+C:\IkenB\YoutubeExamples\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.AssemblyInfo.cs
+C:\IkenB\YoutubeExamples\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.dll
+C:\IkenB\YoutubeExamples\EvenNumber\obj\Debug\netcoreapp2.2\EvenNumber.pdb
