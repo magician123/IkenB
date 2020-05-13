@@ -1,2 +1,2 @@
 # IkenB
-This is a collection of the tuffs that I working on
+This is a collection of the tuffs that I am working on
