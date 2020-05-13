@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CardApplication.View"
         mc:Ignorable="d"
-        Title="Credit Card Application" Height="450" Width="800">
-    <Grid RenderTransformOrigin="0.504,0.455">
+        Title="Credit Card Application" Height="350" Width="600">
+    <Grid >
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
             <ColumnDefinition/>
@@ -32,22 +32,43 @@
         <TextBlock Text="Application Number"
                    Grid.Row="1"
                    FontSize="20"/>
+        <TextBox x:Name="textBoxApplicationNumber"
+                   Grid.Row="1"
+                    Grid.Column="1"
+                   FontSize="20"/>
 
         <TextBlock Text="Salary"
                    Grid.Row="2"
+                   FontSize="20"/>
+        <TextBox x:Name="textBoxSalary"
+                   Grid.Row="2"
+                    Grid.Column="1"
                    FontSize="20"/>
 
         <TextBlock Text="Rent"
                    Grid.Row="3"
                    FontSize="20"/>
+        <TextBox x:Name="textRent"
+                   Grid.Row="3"
+                    Grid.Column="1"
+                   FontSize="20"/>
 
         <TextBlock Text="Years Employed"
                    Grid.Row="4"
+                   FontSize="20"/>
+        <TextBox x:Name="textYearEmployed"
+                   Grid.Row="4"
+                    Grid.Column="1"
                    FontSize="20"/>
 
         <TextBlock Text="Years Residing"
                    Grid.Row="5"
                    FontSize="20"/>
+        <TextBox x:Name="textBoxYearsResiding"
+                   Grid.Row="5"
+                    Grid.Column="1"
+                   FontSize="20"/>
+        
         <Button Content="Apply"
                 Grid.Row="6"
                 Margin="5"

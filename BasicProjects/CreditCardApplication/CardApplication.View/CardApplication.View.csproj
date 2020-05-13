@@ -94,5 +94,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CardApplication.Data\CardApplication.Data.csproj">
+      <Project>{69054971-96c7-4171-b883-36124c612aef}</Project>
+      <Name>CardApplication.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
