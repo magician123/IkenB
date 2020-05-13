@@ -1,5 +1,0 @@
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Shell\obj\Debug\TypeFaster.Shell.csprojAssemblyReference.cache
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Shell\obj\Debug\MainWindow.g.cs
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Shell\obj\Debug\App.g.cs
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Shell\obj\Debug\TypeFaster.Shell_MarkupCompile.cache
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Shell\obj\Debug\TypeFaster.Shell_MarkupCompile.lref

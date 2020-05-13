@@ -1,5 +1,0 @@
-C:\IkenB\SampleProjects\Factorial\bin\Debug\Factorial.dll
-C:\IkenB\SampleProjects\Factorial\bin\Debug\Factorial.pdb
-C:\IkenB\SampleProjects\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
-C:\IkenB\SampleProjects\Factorial\obj\Debug\Factorial.dll
-C:\IkenB\SampleProjects\Factorial\obj\Debug\Factorial.pdb

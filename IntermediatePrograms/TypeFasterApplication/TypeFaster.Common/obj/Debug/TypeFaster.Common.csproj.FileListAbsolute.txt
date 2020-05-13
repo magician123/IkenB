@@ -1,6 +1,0 @@
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Common\bin\Debug\TypeFaster.Common.dll
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Common\bin\Debug\TypeFaster.Common.pdb
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Common\obj\Debug\TypeFaster.Common.csprojAssemblyReference.cache
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Common\obj\Debug\TypeFaster.Common.csproj.CoreCompileInputs.cache
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Common\obj\Debug\TypeFaster.Common.dll
-C:\IkenB\IntermediatePrograms\TypeFasterApplication\TypeFaster.Common\obj\Debug\TypeFaster.Common.pdb

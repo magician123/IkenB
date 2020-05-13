@@ -1,8 +1,0 @@
-﻿Get the text from the user
-Remove all the spaces in the text
-Convert the text into char array
-Create a dictionary of char and int
-loop throught the char array
-	- Store the characters as keys and if the key already exist, incrent the value of that key
-Format the dictionary
-Display the formated dictionary 

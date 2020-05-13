@@ -1,6 +1,0 @@
-C:\IkenB\SampleProjects\BinaryTriangle\bin\Debug\BinaryTriangle.dll
-C:\IkenB\SampleProjects\BinaryTriangle\bin\Debug\BinaryTriangle.pdb
-C:\IkenB\SampleProjects\BinaryTriangle\obj\Debug\BinaryTriangle.csprojAssemblyReference.cache
-C:\IkenB\SampleProjects\BinaryTriangle\obj\Debug\BinaryTriangle.csproj.CoreCompileInputs.cache
-C:\IkenB\SampleProjects\BinaryTriangle\obj\Debug\BinaryTriangle.dll
-C:\IkenB\SampleProjects\BinaryTriangle\obj\Debug\BinaryTriangle.pdb

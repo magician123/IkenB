@@ -1,7 +1,0 @@
-﻿Take the text that user entered and store in a variable.
-Generate a new text from the text entered
-	- loop trough the text from the end to the begining 
-	- Take each character
-	- Join the characters to form a new string
-Print the final result.
-Exit.

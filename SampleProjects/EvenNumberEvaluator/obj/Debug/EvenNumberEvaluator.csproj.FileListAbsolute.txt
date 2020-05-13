@@ -1,6 +1,0 @@
-C:\IkenB\SampleProjects\EvenNumberEvaluator\bin\Debug\EvenNumberEvaluator.dll
-C:\IkenB\SampleProjects\EvenNumberEvaluator\bin\Debug\EvenNumberEvaluator.pdb
-C:\IkenB\SampleProjects\EvenNumberEvaluator\obj\Debug\EvenNumberEvaluator.csproj.CoreCompileInputs.cache
-C:\IkenB\SampleProjects\EvenNumberEvaluator\obj\Debug\EvenNumberEvaluator.dll
-C:\IkenB\SampleProjects\EvenNumberEvaluator\obj\Debug\EvenNumberEvaluator.pdb
-C:\IkenB\SampleProjects\EvenNumberEvaluator\obj\Debug\EvenNumberEvaluator.csprojAssemblyReference.cache

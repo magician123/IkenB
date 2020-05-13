@@ -1,0 +1,60 @@
+﻿<Window x:Class="CardApplication.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CardApplication.View"
+        mc:Ignorable="d"
+        Title="Credit Card Application" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.504,0.455">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.ColumnSpan="2"
+                   HorizontalAlignment="Center"
+                   FontSize="40" Margin="190,0,190,10" Width="412">
+            Apply For a Credit Card
+        </TextBlock>
+
+
+        <TextBlock Text="Application Number"
+                   Grid.Row="1"
+                   FontSize="20"/>
+
+        <TextBlock Text="Salary"
+                   Grid.Row="2"
+                   FontSize="20"/>
+
+        <TextBlock Text="Rent"
+                   Grid.Row="3"
+                   FontSize="20"/>
+
+        <TextBlock Text="Years Employed"
+                   Grid.Row="4"
+                   FontSize="20"/>
+
+        <TextBlock Text="Years Residing"
+                   Grid.Row="5"
+                   FontSize="20"/>
+        <Button Content="Apply"
+                Grid.Row="6"
+                Margin="5"
+                Width="100"
+                HorizontalAlignment="Center"
+                Grid.ColumnSpan="2"
+                x:Name="buttonApply"
+                Click="buttonApply_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,7 @@
+﻿ Get the input text
+ Check duplicates in the text
+ Remove all the emply spaces
+ Create a character array 
+ Remove the duplicated character array
+ Generate a new text without the duplicates using the character array
+ Display the new text

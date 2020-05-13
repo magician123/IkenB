@@ -1,5 +1,0 @@
-C:\IkenB\SampleProjects\Statistics\obj\Debug\Statistics.csproj.CoreCompileInputs.cache
-C:\IkenB\SampleProjects\Statistics\bin\Debug\Statistics.dll
-C:\IkenB\SampleProjects\Statistics\bin\Debug\Statistics.pdb
-C:\IkenB\SampleProjects\Statistics\obj\Debug\Statistics.dll
-C:\IkenB\SampleProjects\Statistics\obj\Debug\Statistics.pdb

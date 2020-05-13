@@ -1,0 +1,7 @@
+﻿Declare Variable number, factorial
+Read number from User
+Initialize Variable i=1 
+Loop Until i<=number
+Make the factorial equal number
+Factorial is equal the previous number(number - i) multiply by itself (factorial = factorial * (number - i );
+Print factorial
