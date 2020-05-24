@@ -4,39 +4,28 @@ namespace Calculator.Logic
 {
     public class Math
     {
-        double firstNumber, secondNumber;
-        public string AddNumbers(string numberOnTheScreen, string numberEntered )
-        {
-            ConverNumbers(numberOnTheScreen,numberEntered);
-
-            return (firstNumber + secondNumber).ToString();
+ 
+        public double AddNumbers(double firstNumber, double secondNumber )
+        {      
+            return firstNumber + secondNumber;
         }
-
-        public string SubtractNumbers(string numberOnTheScreen, string numberEntered)
-        {
-            ConverNumbers(numberOnTheScreen, numberEntered);
-
-            return (firstNumber - secondNumber).ToString();
+        public double SubtractNumbers(double firstNumber, double secondNumber)
+        {  
+            return firstNumber - secondNumber;
         }
-
-        public string DivideNumbers(string numberOnTheScreen, string numberEntered)
+        public double DivideNumbers(double firstNumber, double secondNumber)
         {       
-            ConverNumbers(numberOnTheScreen, numberEntered);
-
-            return (firstNumber / secondNumber).ToString();
+            if (secondNumber != 0)
+                return firstNumber / secondNumber;
+            else
+                return 0;
         }
-        public string MultiplyNumbers(string numberOnTheScreen, string numberEntered)
+        public double MultiplyNumbers(double firstNumber, double secondNumber)
         {          
-            ConverNumbers(numberOnTheScreen, numberEntered);
-
-            return (firstNumber * secondNumber).ToString();
+            return firstNumber * secondNumber;
         }
 
 
-        private void ConverNumbers(string numberOnTheScreen, string numberEntered)
-        {
-            double.TryParse(numberOnTheScreen, out firstNumber);
-            double.TryParse(numberEntered, out secondNumber);
-        }
+       
     }
 }

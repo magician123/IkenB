@@ -5,137 +5,129 @@ using System.Windows.Controls;
 
 namespace Calculator.UI
 {
+
+    public enum SelectedOperator
+    {
+        Addition,
+        Subtraction,
+        Multiplication,
+        Division
+    }
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
-        CalculatorHelper calculatorHelper;
-        string _currentEnteredNumber;
-        string _lastEnteredNumber;
-        Button _control;
-        string _operation = string.Empty;
+        double lastNumber,secondNumber, result;
+        string operation = string.Empty;
+       
         Logic.Math math;
 
         public MainWindow()
         {
             InitializeComponent();
-            calculatorHelper = new CalculatorHelper();
+          
             math = new Logic.Math();
         }
 
-        private void SevenButton_Click(object sender, RoutedEventArgs e)
-        {
-            _control = sender as Button;
 
-            ControlOutputScreen(_control.Content.ToString());
+      
+
+        private void EqualsButton_Click(object sender, RoutedEventArgs e)
+        {
+
+            secondNumber = Double.Parse(outputLabel.Content.ToString());
+
+            switch (operation)
+            {
+                case "+":
+                    result = math.AddNumbers(lastNumber, secondNumber);
+                    break;
+
+                case "-":
+                    result = math.SubtractNumbers(lastNumber, secondNumber);
+                    break;
+
+                case "*":
+                    result = math.MultiplyNumbers(lastNumber, secondNumber);
+                    break;
+
+                case "/":
+                    result = math.DivideNumbers(lastNumber, secondNumber);
+                    break;
+
+            };
+
+            outputLabel.Content = result.ToString();
+        }
+
+        private void NumberControl_Click(object sender, RoutedEventArgs e)
+        {
+            var control = sender as Button;
+            var number = control.Content.ToString();
+
+            if (outputLabel.Content.ToString() == "0")
+            {
+                outputLabel.Content = number;
+            }
+
+            else
+            {
+                outputLabel.Content = $"{outputLabel.Content}{number}";
+            }
 
         }
 
-        private void EightButton_Click(object sender, RoutedEventArgs e)
+        private void acButton_Click(object sender, RoutedEventArgs e)
         {
-            _control = sender as Button;
-
-            ControlOutputScreen(_control.Content.ToString());
+            outputLabel.Content = "0";
         }
 
-        private void NineButton_Click(object sender, RoutedEventArgs e)
+        private void negativeButton_Click(object sender, RoutedEventArgs e)
         {
-            _control = sender as Button;
 
-            ControlOutputScreen(_control.Content.ToString());
-
+            if (double.TryParse(outputLabel.Content.ToString(), out lastNumber))
+            {
+                lastNumber = lastNumber * -1;
+                outputLabel.Content = lastNumber.ToString();
+            }
         }
 
+       
 
-        private void FourButton_Click(object sender, RoutedEventArgs e)
+        private void percentageButton_Click(object sender, RoutedEventArgs e)
         {
-            _control = sender as Button;
-
-            ControlOutputScreen(_control.Content.ToString());
-        }
-
-        private void FiveButton_Click(object sender, RoutedEventArgs e)
-        {
-            _control = sender as Button;
-
-            ControlOutputScreen(_control.Content.ToString());
+            if (double.TryParse(outputLabel.Content.ToString(), out lastNumber))
+            {
+                lastNumber = lastNumber / 100;
+                outputLabel.Content = lastNumber.ToString();
+            }
 
         }
 
-        private void SixButton_Click(object sender, RoutedEventArgs e)
+       
+
+        private void OperationControl_Click(object sender, RoutedEventArgs e)
         {
-            _control = sender as Button;
+            if (double.TryParse(outputLabel.Content.ToString(), out lastNumber))
+            {
+                outputLabel.Content = "0";
+            }
 
-            ControlOutputScreen(_control.Content.ToString());
-        }
+            var control = sender as Button;
 
-        private void OneButton_Click(object sender, RoutedEventArgs e)
-        {
-
-            _control = sender as Button;
-
-            ControlOutputScreen(_control.Content.ToString());
-
-        }
-
-        private void TwoButton_Click(object sender, RoutedEventArgs e)
-        {
-            _control = sender as Button;
-
-            ControlOutputScreen(_control.Content.ToString());
-
-        }
-
-        private void ThreeButton_Click(object sender, RoutedEventArgs e)
-        {
-            _control = sender as Button;
-
-            ControlOutputScreen(_control.Content.ToString());
-
-        }
-
-        private void ZeroButton_Click(object sender, RoutedEventArgs e)
-        {
-
+            operation = control.Content.ToString();
 
         }
 
         private void ButtonComma_Click(object sender, RoutedEventArgs e)
         {
-
+            if(!outputLabel.Content.ToString().Contains("."))
+            {
+                outputLabel.Content = $"{outputLabel.Content}.";
+            }
         }
-
-        private void AddButton_Click(object sender, RoutedEventArgs e)
-        {
-            _lastEnteredNumber = _currentEnteredNumber;
-
-            outputLabel.Content = "0";
-            _operation = "+";
-
-        }
-
-        private void EqualsButton_Click(object sender, RoutedEventArgs e)
-        {
-
-            outputLabel.Content = calculatorHelper.ComputeResults(_operation, _lastEnteredNumber, _currentEnteredNumber);
-
-            _currentEnteredNumber = outputLabel.Content.ToString();
-            _operation = string.Empty;
-        }
-
-        private void ControlOutputScreen(string lastNumberPressed)
-        {
-            
-           
-                outputLabel.Content = calculatorHelper.GenerateOutputValueForNumber(outputLabel, lastNumberPressed);
-           
-           
-            _currentEnteredNumber = outputLabel.Content.ToString();
-
-
-        }
-
-        
     }
+
+   
 }

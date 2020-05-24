@@ -12,9 +12,41 @@ namespace Calculator.Logic.Test
         {
             Math math = new Math();
 
-            var sum = math.AddNumbers("2", "4");
+            var answer = math.AddNumbers(2, 4);
 
-            Assert.AreEqual(sum,"6");
+            Assert.AreEqual(answer, 6);
         }
+
+        [TestMethod]
+        public void SubtractNumbers_WhenCalled_ReturnsSubtractionOfTwoNumbers()
+        {
+            Math math = new Math();
+
+            var answer = math.SubtractNumbers(4, 2);
+
+            Assert.AreEqual(answer, 2);
+        }
+
+        [TestMethod]
+        public void DivideNumbers_WhenCalled_ReturnsDivisionOfTwoNumbers()
+        {
+            Math math = new Math();
+
+            var answer = math.DivideNumbers(4, 2);
+
+            Assert.AreEqual(answer, 2);
+        }
+
+        [TestMethod]
+        public void MultiplyNumbers_WhenCalled_ReturnsMultiplicationOfTwoNumbers()
+        {
+            Math math = new Math();
+
+            var answe = math.MultiplyNumbers(2, 4);
+
+            Assert.AreEqual(answe, 8);
+        }
+
+
     }
 }
