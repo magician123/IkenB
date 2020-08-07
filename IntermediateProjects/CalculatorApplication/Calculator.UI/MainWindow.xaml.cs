@@ -30,9 +30,6 @@ namespace Calculator.UI
             math = new Logic.Math();
         }
 
-
-      
-
         private void EqualsButton_Click(object sender, RoutedEventArgs e)
         {
 
